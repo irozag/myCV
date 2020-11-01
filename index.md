@@ -4,8 +4,17 @@ You can use the [editor on GitHub](https://github.com/irozg/cv-iro-zagota/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-{{ site.data.personal.name }}
-{{ data.personal.name }}
+<p><b>Feedback</b></p>
+<p>{{site.data.personal.feedback}}</p>
+
+<p><b>Block</b></p>
+<p>{{site.data.personal.block}}</p>
+
+<p><b>Feedback</b></p>
+<p>{{data.personal.feedback}}</p>
+
+<p><b>Block</b></p>
+<p>{{data.personal.block}}</p>
 
 ### Markdown
 
