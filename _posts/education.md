@@ -1,6 +1,6 @@
 ## education 
 
-# University of Macedonia
+### University of Macedonia
 Degree NameBachelor in Applied Informatics - BAScField Of StudyInformation Science/Studies
 Dates attended or expected graduation2005 – 2011
 
