@@ -10,11 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p><b>Block</b></p>
 <p>{{site.data.personal.block}}</p>
 
-<p><b>Feedback</b></p>
-<p>{{data.personal.feedback}}</p>
-
-<p><b>Block</b></p>
-<p>{{data.personal.block}}</p>
+{{site.data.personal.name }}
 
 ### Markdown
 
