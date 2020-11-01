@@ -1,7 +1,4 @@
 
----
-layout: home
----
 
 ## Hello World
 
