@@ -1,3 +1,9 @@
+
+---
+layout: post
+title:  "Education"
+---
+
 ## Education 
 
 ### University of Macedonia
