@@ -5,9 +5,13 @@
 {{site.data.personal.email }}
 
 {{site.data.personal.url }}
+
 <ul>
 {% for item in site.data.personal.url %}
-<li>{{item.link}}</li>
+  <li>
+    <a href="https://{{ url.link }}"> test
+    </a>
+  </li>
 {% endfor %}
 </ul>
 
