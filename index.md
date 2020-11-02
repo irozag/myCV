@@ -4,15 +4,13 @@
 
 {{site.data.personal.email }}
 
-{% for item in site.data.personal.urls %}
-[{{item.link}}](http://{{ item.link }})
-{% endfor %}
+{% for item in site.data.personal.urls %}[{{item.link}}](http://{{ item.link }})<br>{% endfor %}
 
 
 ### Intro
 >{{site.data.personal.intro }}
 
-### {{site.data.education }} 
+### Education
 
 {% for edu in site.data.education.education %}
 {{edu.years}}<br>
