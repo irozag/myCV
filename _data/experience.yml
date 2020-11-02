@@ -1,8 +1,15 @@
 ---
 experience: 
-- years: 1879--1889
-  employer: test
-  job: Freier 
+- years: 2017 - today
+  employer: Accepted
+  job: UX/UI Designer 
   city: Athens
-  
+- years: 2015 - 2017
+ employer: Softone Technologies 
+ job: Web & Graphic Designer
+ city: Athens
+ - years: 2012 - 2014
+ employer: Mediamarkt Hellas 
+ job: Web Designer 
+ city: Athens
 ---
