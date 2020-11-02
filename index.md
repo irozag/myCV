@@ -15,18 +15,18 @@
 ### Education 
 
 {% for edu in site.data.education.education %}
-        {{edu.years}}  
-        {{edu.subject}}
-        {{edu.city}} 
+{{edu.years}}<br>
+{{edu.subject}}<br>
+{{edu.city}}<br> 
 {% endfor %}
 
 ### Expirenece
 
 {% for exp in site.data.experience.experience %}
    {{exp.years}}<br> 
-   *{{exp.employer}}*<br> 
+   {{exp.employer}}<br> 
    **{{exp.job}}**<br> 
-    {{exp.city}}<br> 
+    *{{exp.city}}*<br> 
 {% endfor %}
 
 
