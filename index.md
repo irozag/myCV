@@ -5,7 +5,7 @@
 {{site.data.personal.email }}
 
 {% for item in site.data.personal.urls %}
- [{{item.link}}](http://{{ item.link }})
+[{{item.link}}](http://{{ item.link }})<br>
 {% endfor %}
 
 
