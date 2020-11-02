@@ -1,22 +1,14 @@
 
 
-## Hello World
+## {{site.data.personal.name }}
 
-You can use the [editor on GitHub](https://github.com/irozg/cv-iro-zagota/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+{{site.data.personal.email }}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{{site.data.personal.url }}
 
-<p><b>Feedback</b></p>
-<p>{{site.data.personal.feedback}}</p>
+### Intro
 
-<p><b>Block</b></p>
-<p>{{site.data.personal.block}}</p>
-
-{{site.data.personal.name }}
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{{site.data.personal.intro }}
 
 ```markdown
 Syntax highlighted code block
