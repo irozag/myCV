@@ -15,7 +15,7 @@
 ### Intro
 >{{site.data.personal.intro }}
 
-### Education 
+## Education 
 ```
 {% for edu in site.data.education.education %}
         {{edu.year}}  
@@ -24,7 +24,7 @@
 {% endfor %}
 ```
 
-### Expirenece
+## Expirenece
 
 {% for exp in site.data.experience.experience %}
         {{exp.year}}  
