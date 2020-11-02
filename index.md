@@ -16,11 +16,15 @@
 >{{site.data.personal.intro }}
 
 
+### Education
+
+ {% for item in site.data.education.education %}
+        {{item.year}}  
+       **{{item.subject}}** 
+        {{item.city}} 
+{% endfor %}
 
 
-  {% for post in site.posts %}
-   {{ post.title }}   {{ post.url }}. test loop
-  {% endfor %}
 
 
 
