@@ -1,6 +1,10 @@
 ---
 
 education:
+- year: 2020
+  subject: Human computer interaction
+  institute: University of Patras
+  city: Patra
 - year: 2025 - 2011
   subject: Applied Informatics
   institute: University of Macedonia
@@ -10,9 +14,4 @@ education:
   - Digital Marketing 
   - Human-Computer Interaction
   - Programming
-- year: 2020
-  subject: Human computer interaction
-  institute: University of Patras
-  city: Patra
-  
 ---
