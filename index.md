@@ -10,7 +10,7 @@
 
 
 ### Intro
-{{site.data.personal.intro }}
+>{{site.data.personal.intro }}
 
 ### Education 
 
