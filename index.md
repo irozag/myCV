@@ -5,7 +5,7 @@
 {{site.data.personal.email }}
 
 {% for item in site.data.personal.urls %}
-[{{item.link}}](http://{{ item.link }})<br>
+[{{item.link}}](http://{{ item.link }})
 {% endfor %}
 
 
@@ -16,8 +16,8 @@
 
 {% for edu in site.data.education.education %}
 {{edu.years}}<br>
-{{edu.subject}}<br>
-{{edu.city}}<br> 
+**{{edu.subject}}**<br>
+*{{edu.city}}*<br> 
 {% endfor %}
 
 ### Expirenece
