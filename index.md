@@ -12,7 +12,7 @@
 ### Intro
 >{{site.data.personal.intro }}
 
-### Education 
+### {{site.data.education }} 
 
 {% for edu in site.data.education.education %}
 {{edu.years}}<br>
@@ -24,9 +24,17 @@
 
 {% for exp in site.data.experience.experience %}
    {{exp.years}}<br> 
-   {{exp.employer}}<br> 
    **{{exp.job}}**<br> 
+   {{exp.employer}}<br> 
     *{{exp.city}}*<br> 
+{% endfor %}
+
+### Seminars
+
+{% for sem in site.data.experience.experience %}
+   {{sem.years}}<br> 
+   **{{sem.subject}}**<br> 
+   {{sem.IssuingOrganization}}<br> 
 {% endfor %}
 
 
