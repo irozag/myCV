@@ -5,10 +5,14 @@
 {{site.data.personal.email }}
 
 {{site.data.personal.url }}
+<ul>
+{% for url in site.data.personal.url %}
+<li>{{url.link}}</li>
+{% endfor %}
+</ul>
 
 ### Intro
-
-{{site.data.personal.intro }}
+>{{site.data.personal.intro }}
 
 ```markdown
 Syntax highlighted code block
