@@ -5,9 +5,9 @@ name: Iro Zagota
 email: irozg@yahoo.com
 # Insert URLs without http://
 urls:
-- iroza.com/
-- twitter.com/irozag
-- dribbble.com/irozag
+- link: iroza.com/
+- link: twitter.com/irozag
+- link: dribbble.com/irozag
 
 # Sections
 intro: "Α human behavior enthusiast with love in visual arts and digital music."
