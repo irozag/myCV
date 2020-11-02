@@ -23,10 +23,10 @@
 ### Expirenece
 
 {% for exp in site.data.experience.experience %}
-   {{exp.year}}
-   *{{exp.employer}}*
-   **{{exp.job}}**
-    {{exp.city}}
+   {{exp.year}}<br> 
+   *{{exp.employer}}*<br> 
+   **{{exp.job}}**<br> 
+    {{exp.city}}<br> 
 {% endfor %}
 
 
