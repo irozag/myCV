@@ -29,7 +29,7 @@
 
 ### Seminars
 
-{% for sem in site.data.experience.experience %}
+{% for sem in site.data.seminars.seminars %}
    {{sem.years}}<br> 
    **{{sem.subject}}**<br> 
    {{sem.IssuingOrganization}}<br> 
