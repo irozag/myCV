@@ -1,14 +1,17 @@
 ---
 
 seminars:
-- years: 2020
-  subject: Human computer interaction
-  institute: University of Patras
-  city: Patra
-- years: 2005 - 2011
-  subject: Applied Informatics
-  institute: University of Macedonia
-  city: Thessaloniki
+- years: 2018
+  subject: Certified in UX Research for Product Design
+  IssuingOrganization: Zanshin Labs
+- years: 2014
+  subject: Vector Design – Adobe illustrator
+  IssuingOrganization: Future Business School
+- years: 2013
+  subject: Developing web pages with PHP, MySQL and jQuery
+  IssuingOrganization: Future Business School
+- years: 2008
+  subject:   Certified Graphics Designer - Modules: Image Processing (Photoshop)
+  IssuingOrganization: Aristotle Certification Training Assessment (ACTA)
 
-  
 ---
