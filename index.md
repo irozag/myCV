@@ -15,13 +15,12 @@
 ### Intro
 >{{site.data.personal.intro }}
 
-<ul>
+
+
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+   [{{ post.title }}]({{ post.url }})
   {% endfor %}
-</ul>
 
 
 ```markdown
