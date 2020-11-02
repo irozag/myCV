@@ -8,8 +8,11 @@
 
 {% for exp in site.data.experience.experience %}
 {{exp.year}}
+
 *{{exp.employer}}*
+
 **{{exp.job}}**
+
 {{exp.city}}
 {% endfor %}
 
@@ -20,16 +23,15 @@
 
 
 ### Intro
->{{site.data.personal.intro }}
+{{site.data.personal.intro }}
 
 ### Education 
-```
+
 {% for edu in site.data.education.education %}
         {{edu.year}}  
         <b>{{edu.subject}}</b>
         {{edu.city}} 
 {% endfor %}
-```
 
 ### Expirenece
 
