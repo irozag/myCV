@@ -1,15 +1,21 @@
 ---
-name: Iro
 
-feedback: >
-  This is my feedback to you.
-  Even if I include linebreaks here,
-  all of the linebreaks will be removed when the value is inserted.
+# Personal details
+name: Iro Zagota
+email: irozg@yahoo.com
+# Insert URLs without http://
+urls:
+- iroza.com/
+- twitter.com/irozag
+- dribbble.com/irozag
 
-block: |
-    This pipe does something a little different.
-    It preserves the breaks.
-    This is really helpful for code samples,
-    since you can format the code samples with
-       the appropriate
+# Sections
+intro: "Α human behavior enthusiast with love in visual arts and digital music."
+
+skills:
+- UX Design
+- UI Design
+- CSS  
+- and yml XD :satisfied:!
+
 ---
