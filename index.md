@@ -8,7 +8,7 @@
 
 
 {% for item in site.data.personal.urls %}
- {{ urls.link }}
+ "{{ urls.link }}"
 {% endfor %}
 
 
