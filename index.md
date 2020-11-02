@@ -8,8 +8,7 @@
 
 
 {% for item in site.data.personal.urls %}
-    [test](https://{{ urls.link }})
- 
+ {{ urls.link }}
 {% endfor %}
 
 
