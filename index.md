@@ -15,7 +15,7 @@
 ### Education 
 
 {% for edu in site.data.education.education %}
-        {{edu.year}}  
+        {{edu.years}}  
         {{edu.subject}}
         {{edu.city}} 
 {% endfor %}
@@ -23,7 +23,7 @@
 ### Expirenece
 
 {% for exp in site.data.experience.experience %}
-   {{exp.year}}<br> 
+   {{exp.years}}<br> 
    *{{exp.employer}}*<br> 
    **{{exp.job}}**<br> 
     {{exp.city}}<br> 
