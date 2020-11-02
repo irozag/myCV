@@ -6,14 +6,12 @@
 
 {{site.data.personal.url }}
 
-<ul>
-{% for item in site.data.personal.url %}
-  <li>
-    <a href="https://{{ url.link }}"> test
-    </a>
-  </li>
+
+{% for item in site.data.personal.urls %}
+    [test]("https://{{ urls.link }}")
+ 
 {% endfor %}
-</ul>
+
 
 ### Intro
 >{{site.data.personal.intro }}
