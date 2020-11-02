@@ -18,9 +18,9 @@
 
 ### Education
 
- {% for item in site.data.education.education %}
+{% for item in site.data.education.education %}
         {{item.year}}  
-       **{{item.subject}}** 
+        __{{item.subject}}__
         {{item.city}} 
 {% endfor %}
 
