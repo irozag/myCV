@@ -1,6 +1,6 @@
 
 
-## {{site.data.personal.name }}
+## Iro Zagota
 
 {{site.data.personal.email }}
 
