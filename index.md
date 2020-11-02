@@ -6,8 +6,8 @@
 
 {{site.data.personal.url }}
 <ul>
-{% for url in site.data.personal.url %}
-<li>{{url.link}}</li>
+{% for item in site.data.personal.url %}
+<li>{{item.link}}</li>
 {% endfor %}
 </ul>
 
