@@ -3,10 +3,12 @@
 education:
 - years: 2020
   subject: Human-Computer Interaction
+  level: master
   institute: University of Patras
   city: Patra
 - years: 2005 - 2011
   subject: Applied Informatics
+  level: bachelor 
   institute: University of Macedonia
   city: Thessaloniki
   details:
