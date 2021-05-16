@@ -42,4 +42,15 @@ _______________________
    {{sem.IssuingOrganization}}<br> 
 {% endfor %}
 
+_______________________
+
+### Projects
+
+{% for p in site.data.projects.projects %}
+   {{p.years}}<br> 
+   {{p.type}}<br> 
+   **{{p.client}}**<br> 
+   {{p.description}}<br> 
+{% endfor %}
+
 
