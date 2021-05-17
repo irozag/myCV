@@ -36,11 +36,12 @@ projects:
     description: "Web design of enikonomia.gr"
     type: "Web Design"
     years: "2015 - 2016"
-  - project: ellines.com
+  - client: Christos Barlas
+    project: ellines.com
     description: "Web design of ellines.com"
     type: "Web Design"
     years: "2014 - 2015"
-  - client: Madame Ginnger
+  - client: Madame Ginger
     project: madameginger.com
     description: "Web Design of madameginger.com foodblogger"
     type: "Web Design"
