@@ -44,12 +44,12 @@ _______________________
 
 _______________________
 
-### Projects
+### Additional Freelance Projects
 
 {% for p in site.data.projects.projects %}
    {{p.years}}<br> 
-    **{{p.project}}**  {{p.type}}<br> 
-   {{p.description}}<br> 
+    **{{p.project}}** - {{p.type}}<br> 
+   {{p.client}}<br> 
 {% endfor %}
 
 
