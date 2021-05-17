@@ -1,6 +1,6 @@
 
 
-## Iro Zagota
+## Iro Zagota - ### Digital Product Deisgner
 
 {{site.data.personal.email }}
 
