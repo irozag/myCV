@@ -1,7 +1,7 @@
 
 
 ## Iro Zagota 
-*Digital Product Deisgner*
+###*Digital Product Deisgner*
 
 {{site.data.personal.email }} -- [{{site.data.personal.page}}](http://{{ site.data.personal.page }})
 
