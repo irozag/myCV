@@ -16,11 +16,11 @@ projects:
     description: "UI Design of two mobile apps for taxi drivers and clients"
     type: "UX - UI Design"
     years: "2019"
-  - client: "from scratch studio "
-    project: Landing pages for running events 
-    description: "Web design for running events promoting campaigns."
-    type: "Web Design"
-    years: "2018"
+#   - client: "from scratch studio "
+#     project: Landing pages for running events 
+#     description: "Web design for running events promoting campaigns."
+#     type: "Web Design"
+#     years: "2018"
   - client: "Hellas Direct"
     project: HD plus
     description: "Main design for the first production release of a car damage management app of Hellas Direct - UI Design"
