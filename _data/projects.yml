@@ -2,22 +2,27 @@
 
 projects: 
   - client: "Hellas Direct"
+    project: HD plus
     description: "Main design for the first production release of a car damage management app (in the insurance world)"
     type: "UI Design"
     years: "2016 - 2017"
-  - client: Enikos.gr
+  - client: Ενικός
+    project: enikos.gr
     description: "Web design of enikos.gr"
     type: "Web Design"
     years: "2016 - 2017"
-  - client: Enikos.gr
+  - client: Ενικός
+    project: enikonomia.gr
     description: "Web design of enikonomia.gr"
     type: "Web Design"
     years: "2015 - 2016"
-  - client: Ellines.com
+  - client: Christos Mparlas
+    project: ellines.com
     description: "Web design of ellines.com"
     type: "Web Design"
     years: "2014 - 2015"
-  - client: "Madame Ginger"
+  - client: Madame Ginnger
+    project: madameginger.com
     description: "Web Design of madameginger.com"
     type: "Web Design"
     years: "2013 - 2014"
