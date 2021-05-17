@@ -3,10 +3,10 @@
 # Personal details
 name: Iro Zagota
 email: irozg@yahoo.com
-page: iroza.com/
+# page: iroza.com/
 # Insert URLs without http://
 urls:
-# - link: iroza.com/
+- link: iroza.com/
 - link: twitter.com/irozag
 - link: dribbble.com/irozag
 - link: github.com/irozg/
