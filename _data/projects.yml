@@ -1,4 +1,5 @@
 --- 
+
 projects: 
   - client: "Hellas Direct"
     description: "Main design for the first production release of a car damage management app (in the insurance world)"
@@ -20,4 +21,5 @@ projects:
     description: "Web Design of madameginger.com"
     type: "Web Design"
     years: "2013 - 2014"
+    
 ---
