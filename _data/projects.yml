@@ -1,12 +1,12 @@
 --- 
 
 projects: 
-  - client: "SoftOne"
-    project: Soft1 
+  - client: "Softone Technologies"
+    project: Soft1 Series 5
     description: "UI Redesign of Soft1 Series 5"
     type: "UI Design"
     years: "2020 - 2021"
-  - client: "SoftOne"
+  - client: "Softone Technologies"
     project: Prosvasis Go, portal 
     description: "UI Design of Prosvasis Go, portal"
     type: "UI Design"
