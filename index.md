@@ -48,8 +48,8 @@ _______________________
 
 {% for p in site.data.projects.projects %}
    {{p.years}}<br> 
-    **{{p.project}}** - {{p.type}}<br> 
-   {{p.client}}<br> 
+    **{{p.project}}** - {{p.client}}<br> 
+   {{p.type}}<br> 
 {% endfor %}
 
 
