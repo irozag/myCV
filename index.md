@@ -1,8 +1,9 @@
 
 
-## Iro Zagota - Digital Product Deisgner
+## Iro Zagota 
+*Digital Product Deisgner
 
-{{site.data.personal.email }}
+{{site.data.personal.email }} {{site.data.personal.page }} 
 
 {% for item in site.data.personal.urls %}[{{item.link}}](http://{{ item.link }})<br>{% endfor %}
 
