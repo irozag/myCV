@@ -1,14 +1,13 @@
 
 
 ## Iro Zagota 
-*Digital Product Deisgner*
 
 [{{site.data.personal.page}}](http://{{ site.data.personal.page }}) -- {{site.data.personal.email }} 
 
 {% for item in site.data.personal.urls %}[{{item.link}}](http://{{ item.link }})<br>{% endfor %}
 
 
-### Intro
+### Digital Product Deisgner
 >{{site.data.personal.intro }}
 
 _______________________
