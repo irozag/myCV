@@ -3,7 +3,7 @@
 ## Iro Zagota 
 
 [{{site.data.personal.page}}](http://{{ site.data.personal.page }}) -- {{site.data.personal.email }} <br/>
---  *for portfolio view request a private presentation*
+--  *for portfolio view, request a private presentation*
 
 {% for item in site.data.personal.urls %}[{{item.link}}](http://{{ item.link }})<br>{% endfor %}
 
