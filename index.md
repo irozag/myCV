@@ -30,9 +30,8 @@ _______________________
 {{edu.years}}<br>
 **{{edu.subject}}**<br>
 {{edu.institute}}<br> 
-*{{edu.city}}*<br> 
-<br>
-{{edu.courses}}
+{{edu.city}}<br> 
+*{{edu.courses}}*
 {% endfor %}
 
 _______________________
