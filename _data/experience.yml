@@ -3,12 +3,12 @@
 experience:
 - years: 2019 - today
   job: Lead Product (UX/UI) Designer 
-  employer: Accepted (Inaccess)
+  employer: Inaccess (Accepted LTD)
   link: inaccess.com
   city: Athens
 - years: 2017 - 2019
   job: Product (UX/UI) Designer 
-  employer: Accepted (Inaccess)
+  employer: Inaccess (Accepted LTD)
   link: inaccess.com
   city: Athens
 - years: 2015 - 2017
@@ -24,10 +24,12 @@ experience:
 - years: 2011 - 2012
   job: Web Designer 
   employer: EUROGRPOUP EPE 
+  link: 4uthesite.gr
   city: Athens
 - years: 2011
   job: Social Media Intern 
   employer: Newspaper Macedonia
+  link: makthes.gr
   city: Athens
 
 ---
