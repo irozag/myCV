@@ -18,7 +18,7 @@ _______________________
 {% for exp in site.data.experience.experience %}
    {{exp.years}}<br> 
    **{{exp.job}}**<br> 
-   {{exp.employer}}<br> 
+   [{{exp.employer}}](http://{{ exp.link }})<br> 
     *{{exp.city}}*<br> 
 {% endfor %}
 
