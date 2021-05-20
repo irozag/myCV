@@ -5,20 +5,11 @@ education:
   subject: Master in Human-Computer Interaction
   institute: University of Patras
   city: Patra
-  courses: 
-  - Research Methods
-  - Interactive Technologies 
-  - Cognity Ergonomics 
-  - Statistical Methods 
-  - Front End Programming and more
+  courses: Research Methods, Interactive Technologies, Cognity Ergonomics, Statistical Methods, Front End Programming and more
 - years: 2005 - 2011
   subject: Applied Informatics
   institute: University of Macedonia
   city: Thessaloniki
-  courses:
-  - Information Systems (ERP, CRM, etc)
-  - Digital Marketing 
-  - Human-Computer Interaction
-  - Programming
+  courses: Information Systems (ERP, CRM, etc), Digital Marketing, Human-Computer Interaction, Programming and more
 
 ---
