@@ -31,7 +31,7 @@ _______________________
 **{{edu.subject}}**<br>
 {{edu.institute}}<br> 
 *{{edu.city}}*<br> 
-<b>Courses:</b> {{edu.courses}}
+**Courses:** {{edu.courses}}
 {% endfor %}
 
 _______________________
