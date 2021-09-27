@@ -1,10 +1,20 @@
 --- 
 
 projects: 
+  - client: "Metargus"
+    project: MVP - no name yet 
+    description: "Design a MVP web app in the basketball area"
+    type: "UX - UI Design"
+    years: "2021"
+  - client: "Bevica"
+    project: Iris
+    description: "Design of web and mobile app for deaf's communication and accessibility"
+    type: "UX - UI Design"
+    years: "2021"
   - client: "Softone Technologies"
     project: Soft1 Series 5
     description: "UI Redesign of Soft1 Series 5"
-    type: "UX - UI Design"
+    type: "UI Design"
     years: "2021"
   - client: "Softone Technologies"
     project: Prosvasis Go, mini portal 
@@ -13,7 +23,7 @@ projects:
     years: "2020"
   - client: "Asteras RadioTaxi"
     project: Taxi Life 
-    description: "UI Design of two mobile apps for taxi drivers and clients"
+    description: "Design of two mobile apps for taxi drivers and clients"
     type: "UX - UI Design"
     years: "2019"
 #   - client: "from scratch studio "
@@ -23,7 +33,7 @@ projects:
 #     years: "2018"
   - client: "Hellas Direct"
     project: HD plus
-    description: "Main design for the first production release of a car damage management app of Hellas Direct - UI Design"
+    description: "Main design for the first production release of a car damage management app of Hellas Direct"
     type: "UI Design"
     years: "2017"
   - client: "the Brain Pixels"
