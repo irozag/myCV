@@ -8,7 +8,7 @@
 {% for item in site.data.personal.urls %}[{{item.link}}](http://{{ item.link }})<br>{% endfor %}
 
 
-### Digital (UX/UI) Product Deisgner
+### Sr (UX/UI) Product Deisgner
 >{{site.data.personal.intro }}
 
 _______________________
