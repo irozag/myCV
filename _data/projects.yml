@@ -2,7 +2,7 @@
 
 projects: 
   - client: "Metargus"
-    project: mismatch
+    project: Mismatch
     description: "Design a MVP web app in the basketball area"
     type: "UX - UI Design"
     years: "2021"
