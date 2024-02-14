@@ -21,11 +21,11 @@ projects:
     description: "UI Design of Prosvasis Go, portal"
     type: "UI Design"
     years: "2020"
-  - client: "Asteras RadioTaxi"
-    project: Taxi Life 
-    description: "Design of two mobile apps for taxi drivers and clients"
-    type: "UX - UI Design"
-    years: "2019"
+  # - client: "Asteras RadioTaxi"
+  #   project: Taxi Life 
+  #   description: "Design of two mobile apps for taxi drivers and clients"
+  #   type: "UX - UI Design"
+  #   years: "2019"
 #   - client: "from scratch studio "
 #     project: Landing pages for running events 
 #     description: "Web design for running events promoting campaigns."
@@ -36,11 +36,11 @@ projects:
     description: "Main design for the first production release of a car damage management app of Hellas Direct"
     type: "UX - UI Design"
     years: "2017"
-  - client: "the Brain Pixels"
-    project: isharefreely
-    description: "UI design of a polling app"
-    type: "UI Design"
-    years: "2016"
+  # - client: "the Brain Pixels"
+  #   project: isharefreely
+  #   description: "UI design of a polling app"
+  #   type: "UI Design"
+  #   years: "2016"
   - client: Enikos
     project: enikos.gr
     description: "Web design of enikos.gr"
@@ -51,11 +51,11 @@ projects:
     description: "Web design of enikonomia.gr"
     type: "Web Design"
     years: "2015"
-  - client: Christos Barlas
-    project: ellines.com
-    description: "Web design of ellines.com"
-    type: "Web Design"
-    years: "2014"
+  # - client: Christos Barlas  - client: Christos Barlas
+  #   project: ellines.com
+  #   description: "Web design of ellines.com"
+  #   type: "Web Design"
+  #   years: "2014"
 # - client: Marilou Pantaki
 #  project: madameginger.com
 #   description: "Web Design of madameginger.com foodblogger"
